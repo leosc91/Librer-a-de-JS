@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iniciar Sesión</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/utileria.js"></script>
+</head>
+<body>
+
+    <div class="contenedor">
+        <h2>Login</h2>
+        
+        <label for="campoCorreo">Correo Electrónico:</label>
+        <input type="text" id="campoCorreo" placeholder="Ej. correo@gmail.com">
+        <div id="errorCorreo" class="error-texto">Correo inválido.</div>
+
+        <label for="campoPass">Contraseña:</label>
+        <input type="password" id="campoPass">
+        <div id="errorPass" class="error-texto">Mínimo 8 letras, una mayúscula, una minúscula, un número y un símbolo.</div>
+
+        <button onclick="Login()">Ingresar</button>
+        
+        <a href="index.html" class="enlace-cambio">Volver al Registro</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/utileria.js"></script>
+</head>
+<body>
+
+    <div class="contenedor">
+        <h2>Registro</h2>
+        
+        <label for="campoNombre">Nombre Completo:</label>
+        <input type="text" id="campoNombre" placeholder="Ej. Juan Perez Hernandez">
+        <div id="errorNombre" class="error-texto">Solo letras y espacios.</div>
+
+        <label for="campoFecha">Fecha de Nacimiento:</label>
+        <input type="date" id="campoFecha">
+
+        <label for="campoCurp">CURP:</label>
+        <input type="text" id="campoCurp" maxlength="18">
+        <div id="errorCurp" class="error-texto">CURP no válida.</div>
+
+        <label for="campoTarjeta">Tarjeta Bancaria:</label>
+        <input type="text" id="campoTarjeta" maxlength="16">
+        <div id="errorTarjeta" class="error-texto">Debe tener 16 números.</div>
+
+        <button onclick="ejecutarValidacion()">Validar Datos</button>
+        
+        <a href="login.html" class="enlace-cambio">Ir a Iniciar Sesión</a>
+    </div>
+
+    <div id="miModal" class="modal-fondo">
+        <div class="modal-caja">
+            <h3>Edad</h3>
+            <p id="textoEdad"></p>
+            <p id="textoMayoría"></p>
+            <button onclick="cerrarModal()">Entendido</button>
+        </div>
+    </div>
+
+</body>
+</html>
