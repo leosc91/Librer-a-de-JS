@@ -1,4 +1,3 @@
-
 function validarCorreo(correo) {
     let formato = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     return formato.test(correo);
