@@ -52,3 +52,9 @@ console.log("¿El correo es válido? " + validarCorreo(correoInvalido));
 ```
 <img width="740" height="169" alt="image" src="https://github.com/user-attachments/assets/4ef84b78-7021-4ada-9b92-050d082d4916" />
 
+
+
+https://github.com/user-attachments/assets/39e8affe-756d-4593-b758-54c77ef4cd33
+
+
+
