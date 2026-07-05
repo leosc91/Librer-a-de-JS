@@ -27,6 +27,8 @@ let textoInvalido = "Solo13tras";
 console.log("¿El texto es válido? " + soloLetras(textoValido));
 console.log("¿El texto es válido? " + soloLetras(textoInvalido)); 
 ```
+<img width="750" height="170" alt="image" src="https://github.com/user-attachments/assets/39b637e0-34d5-4a60-883e-e16d206fbb57" />
+
 
 Verificar tarjeta bancaria.
 ```javascript 
@@ -34,12 +36,16 @@ let tarjeta = "4507 9900 0000 4905";
 let tarjeta = "1234567890";
 console.log("¿La tarjeta es válida? " + validarTarjetaBancaria(tarjetaValida));
 console.log("¿La tarjeta es válida? " + validarTarjetaBancaria(tarjetaInvalida));
-``` 
+```
+<img width="726" height="169" alt="image" src="https://github.com/user-attachments/assets/3bceb98b-beb7-4091-87ca-dc4b14677324" />
 
-Verificar contraseñas.
+
+Verificar correo.
 ```javascript 
 let formato = "correoreal@gmail.com";
 let formato = "correo@gmail";
 console.log("¿El correo es válido? " + validarCorreo(correoValido));
 console.log("¿El correo es válido? " + validarCorreo(correoInvalido));
 ```
+<img width="740" height="169" alt="image" src="https://github.com/user-attachments/assets/4ef84b78-7021-4ada-9b92-050d082d4916" />
+
