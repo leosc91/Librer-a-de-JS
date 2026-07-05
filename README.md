@@ -3,8 +3,7 @@
 Autor: Salinas Cenobio Leonel Isaac
 Materia: Programación Web 
 
-Lo que hace
-Esta librería brinda funciones en JavaScript. Realiza verificaciones de datos en los formularios web, comprobando correos, seguridad de contraseñas, edad, CURP y tarjetas bancarias antes de que se direccionen a el backend.
+Lo que hace esta librería brinda funciones en JavaScript. Realiza verificaciones de datos en los formularios web, comprobando correos, seguridad de contraseñas, edad, CURP y tarjetas bancarias antes de que se direccionen a el backend.
 
 Instalación
 Para utilizar esta herramienta, conecta el archivo en tus documentos HTML:
