@@ -3,7 +3,15 @@
 Autor: Salinas Cenobio Leonel Isaac
 Materia: Programación Web 
 
-Lo que hace esta librería brinda funciones en JavaScript. Realiza verificaciones de datos en los formularios web, comprobando correos, seguridad de contraseñas, edad, CURP y tarjetas bancarias antes de que se direccionen a el backend.
+Lo que hace esta librería brinda funciones en JavaScript. Realiza verificaciones de datos en los formularios web las siguientes verificaciones antes de que se direccionen a el backend.
+*Formato de correo electrónico
+*Solo recibir letras
+*Validar la longitud de una cadena númerica
+*Calcular edad en base a la fecha de nacimiento
+*Verificar la mayoria de edad
+*Validar contraseñas
+*Validar CURP
+*Formato de tarjeta bancaria
 
 Instalación
 Para utilizar esta herramienta, conecta el archivo en tus documentos HTML:
