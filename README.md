@@ -4,14 +4,14 @@ Autor: Salinas Cenobio Leonel Isaac
 Materia: Programación Web 
 
 Lo que hace esta librería brinda funciones en JavaScript. Realiza verificaciones de datos en los formularios web las siguientes verificaciones antes de que se direccionen a el backend.
-*Formato de correo electrónico
-*Solo recibir letras
-*Validar la longitud de una cadena númerica
-*Calcular edad en base a la fecha de nacimiento
-*Verificar la mayoria de edad
-*Validar contraseñas
-*Validar CURP
-*Formato de tarjeta bancaria
+1. Formato de correo electrónico
+2. Solo recibir letras
+3. Validar la longitud de una cadena númerica
+4. Calcular edad en base a la fecha de nacimiento
+5. Verificar la mayoria de edad
+6. Validar contraseñas
+7. Validar CURP
+8. Formato de tarjeta bancaria
 
 Instalación
 Para utilizar esta herramienta, conecta el archivo en tus documentos HTML:
