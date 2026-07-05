@@ -24,6 +24,10 @@ Instalación: para utilizar esta libreria, conecta el archivo en tus documentos 
 
 **Ejemplos de código**
 Verificar nombre
+
+
+
+
 Verifica que la cadena ingresa en el campo de Nombre Completo contenga solo letras sin números ni carácteres especiales.
 ```javascript 
 let textoValido = "Juan Perez Hernandez";
@@ -35,6 +39,10 @@ console.log("¿El texto es válido? " + soloLetras(textoInvalido));
 
 
 Verificar tarjeta bancaria.
+
+
+
+
 Verifica la longitud de 16 digitos del formato de la tarjeta, así mismo como su veracidad.
 ```javascript 
 let tarjeta = "4507 9900 0000 4905";
@@ -46,6 +54,10 @@ console.log("¿La tarjeta es válida? " + validarTarjetaBancaria(tarjetaInvalida
 
 
 Verificar correo.
+
+
+
+
 Verifica que la dirección contenga el formato de correo electrónico correcto.
 ```javascript 
 let formato = "correoreal@gmail.com";
