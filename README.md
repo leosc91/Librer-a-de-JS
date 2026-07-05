@@ -2,6 +2,8 @@
 
 Autor: Salinas Cenobio Leonel Isaac
 
+
+
 Materia: Programación Web 
 
 Lo que hace esta librería brinda funciones en JavaScript. Realiza verificaciones de datos en los formularios web las siguientes verificaciones antes de que se direccionen a el backend:
