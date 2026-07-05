@@ -13,8 +13,7 @@ Lo que hace esta librería brinda funciones en JavaScript. Realiza verificacione
 7. Validar CURP
 8. Formato de tarjeta bancaria
 
-Instalación
-Para utilizar esta herramienta, conecta el archivo en tus documentos HTML:
+Instalación: para utilizar esta libreria, conecta el archivo en tus documentos HTML:
 
 ```html
 <script src="js/utileria.js"></script>
