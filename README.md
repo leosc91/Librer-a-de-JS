@@ -1,4 +1,4 @@
-#Validación - Librería JS
+**Validación - Librería JavaScript**
 
 Autor: Salinas Cenobio Leonel Isaac
 Materia: Programación Web 
@@ -13,7 +13,7 @@ Para utilizar esta herramienta, conecta el archivo en tus documentos HTML:
 <script src="js/utileria.js"></script>
 ```
 
-#Ejemplos de código
+**Ejemplos de código**
 Verificar nombre
 ```javascript 
 let textoValido = "Juan Perez Hernandez";
